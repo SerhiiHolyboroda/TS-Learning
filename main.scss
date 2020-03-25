@@ -1,0 +1,13 @@
+.Censor{
+    margin-top: 50px;
+    margin: 0 auto;
+    &__Words{
+        display: flex;
+        flex-direction: row;
+         
+    }
+    &__Head{
+        display: flex;
+        flex-direction: row;
+    }
+}
